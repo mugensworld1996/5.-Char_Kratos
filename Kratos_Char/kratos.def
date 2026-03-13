@@ -4,7 +4,7 @@ displayname="Kratos"
 versiondate=
 mugenversion=1.0
 author="MugensWorld"
-pal.defaults=1,
+pal.defaults=1,2
 [Files]
 sprite=kratos.sff
 sound=kratos.snd
@@ -14,6 +14,7 @@ cns=kratos.cns
 st=kratos.cns
 stcommon=common1.cns
 pal1=kratos.act
+pal2=kratos2.act
 [Arcade]
 intro.storyboard=
 ending.storyboard=
